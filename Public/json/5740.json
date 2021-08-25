@@ -1,0 +1,28 @@
+{
+  "case": {
+    "size": "Mid Tower",
+    "rarity": "Normal"
+  },
+  "cpu": {
+    "cpu": "INTEL",
+    "model": "11500",
+    "rarity": "Normal"
+  },
+  "psu": {
+    "watt": 300,
+    "rarity": "Normal"
+  },
+  "ram": {
+    "size": 16,
+    "speed": 3200,
+    "rarity": "Normal"
+  },
+  "drive": {
+    "type": "FLOPPY",
+    "rarity": "Normal"
+  },
+  "gpu": {
+    "model": "RX 6800-XT",
+    "rarity": "Normal"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "case": {
+    "size": "Mid Tower",
+    "rarity": "Golden"
+  },
+  "cpu": {
+    "cpu": "INTEL",
+    "model": "11500",
+    "rarity": "Normal"
+  },
+  "psu": {
+    "watt": 300,
+    "rarity": "Normal"
+  },
+  "ram": {
+    "size": 16,
+    "speed": 2666,
+    "rarity": "Normal"
+  },
+  "drive": {
+    "type": "FLOPPY",
+    "rarity": "Normal"
+  },
+  "gpu": {
+    "model": "Radeon-VII",
+    "rarity": "Normal"
+  }
+}

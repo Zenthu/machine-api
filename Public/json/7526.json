@@ -1,0 +1,28 @@
+{
+  "case": {
+    "size": "Mini Tower",
+    "rarity": "Normal"
+  },
+  "cpu": {
+    "cpu": "AMD",
+    "model": "5600X",
+    "rarity": "Normal"
+  },
+  "psu": {
+    "watt": 500,
+    "rarity": "Normal"
+  },
+  "ram": {
+    "size": 16,
+    "speed": 2666,
+    "rarity": "Normal"
+  },
+  "drive": {
+    "type": "FLOPPY",
+    "rarity": "Normal"
+  },
+  "gpu": {
+    "model": "RTX 3070",
+    "rarity": "Normal"
+  }
+}
